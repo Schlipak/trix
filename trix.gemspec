@@ -5,8 +5,8 @@ require 'trix/version'
 Gem::Specification.new do |spec|
   spec.name          = 'trix-rails'
   spec.version       = Trix::VERSION
-  spec.authors       = ['Kyle Fox', 'Jon Moss']
-  spec.email         = ['kylefox@gmail.com', 'me@jonathanmoss.me']
+  spec.authors       = ['Guillaume de Matos', 'Kyle Fox', 'Jon Moss']
+  spec.email         = ['g.de.matos13@gmail.com', 'kylefox@gmail.com', 'me@jonathanmoss.me']
 
   spec.summary       = 'A rich text editor for everyday writing'
   spec.description   = 'A rich text editor for everyday writing'
